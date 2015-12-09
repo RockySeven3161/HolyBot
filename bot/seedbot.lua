@@ -223,7 +223,7 @@ function create_config( )
     disabled_channels = {},
     realm = {},--Realms Id
     moderation = {data = 'data/moderation.json'},
-    about_text = [Tech Bot,
+    about_text = [Tech Bot + creator @POWER_SUDO + Manager @Shahabsaf,
     help_text = [[
 Commands list :
 
